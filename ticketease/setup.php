@@ -32,7 +32,7 @@ function plugin_version_ticketease() {
       'name'        => 'TicketEase',
       'version'     => PLUGIN_TICKETEASE_VERSION,
       'author'      => 'Evan Navega',
-      'homepage'    => 'https://github.com/LeaVen27',
+      'homepage'    => 'https://github.com/evannvg/TicketEase',
       'license'     => 'GPL v2+',
       'requirements'=> [
          'glpi' => [
